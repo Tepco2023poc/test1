@@ -1,5 +1,5 @@
 {
-    "name": "simple_webrtc_signaling_server",
+    "name": "test1",
     "version": "1.0.0",
     "description": "WebRTC signalling server using Socket.io with option for rooms and deployment instructions",
     "main": "server.js",
